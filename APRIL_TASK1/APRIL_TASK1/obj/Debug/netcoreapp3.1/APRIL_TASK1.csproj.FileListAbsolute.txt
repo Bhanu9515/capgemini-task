@@ -1,0 +1,14 @@
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.exe
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.deps.json
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.runtimeconfig.json
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.runtimeconfig.dev.json
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.dll
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\bin\Debug\netcoreapp3.1\APRIL_TASK1.pdb
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.csproj.AssemblyReference.cache
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.AssemblyInfoInputs.cache
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.AssemblyInfo.cs
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.csproj.CoreCompileInputs.cache
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.dll
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.pdb
+C:\Users\bhanu164\source\repos\APRIL_TASK1\APRIL_TASK1\obj\Debug\netcoreapp3.1\APRIL_TASK1.genruntimeconfig.cache
