@@ -1,0 +1,14 @@
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.exe
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.deps.json
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.runtimeconfig.json
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.runtimeconfig.dev.json
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.dll
+C:\Users\bhanu164\source\repos\TASK2\TASK2\bin\Debug\netcoreapp3.1\TASK2.pdb
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.csproj.AssemblyReference.cache
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.AssemblyInfoInputs.cache
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.AssemblyInfo.cs
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.csproj.CoreCompileInputs.cache
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.dll
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.pdb
+C:\Users\bhanu164\source\repos\TASK2\TASK2\obj\Debug\netcoreapp3.1\TASK2.genruntimeconfig.cache
